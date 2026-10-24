@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agentic-openapi-path-traversal-fuzzer-skill",
+  "version": "1.0.0",
+  "description": "Agentic API security fuzzer synthesizing directory traversal mutations, URL encodings, and path normalization escapes",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["path-traversal", "security-fuzzer", "openapi-audit", "directory-traversal", "cwe-22", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
